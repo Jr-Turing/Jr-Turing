@@ -1,10 +1,21 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arvind+Kumar!;Welcome+To+My+Github+Profile" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arvind+Kumar!;Welcome+To+My+Github+Profile" </h1>
 
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 <h3 align="center">A passionate Cyber Security from India</h3>
-👋Hi, I'm Arvind Kumar<br>🔭 I’m interested in AI/Cyber Security<br>👯 I’m looking to collaborate on python projects<br>🌱 I’m currently learning Python & C/CPP<br>💬 How to reach me @arvindkumar003<br>😄 Pronouns: HE/HIM
+
+- 🌱 I’m currently learning **DSA with C++**
+
+- 👯 I’m looking to collaborate on **Python Projects**
+  
+- 💬 Ask me about **security**
+  
+- 📫 How to reach me **teamarvindkr@gmail.com**
+  
+- 📄 Know about my experiences [Complete C]
+  
+- ⚡ Fun fact **I am funny**
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
@@ -21,21 +32,18 @@ alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_
 <h2 align="center"> 📊 GitHub Stats: </h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=arvindkumar003&theme=radical&hide_border=false" <br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=arvindkumar003&theme=radical&hide_border=false&include_all_commits=false&count_private=false" <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvindkumar003&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+  <img width=355 src="https://github-readme-stats.vercel.app/api?username=Jr-Turing&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false" <br/>
+  <img width=385 src="https://github-readme-streak-stats.herokuapp.com/?user=Jr-Turing&theme=blue-green&hide_border=false" <br/>
+  <img width=355 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jr-Turing&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact"
 </div>
   
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arvindkumar003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-###✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://github-profile-trophy.vercel.app/?username=Jr-Turing&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=arvindkumar003&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Jr-Turing&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=arvindkumar003&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Jr-Turing&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
