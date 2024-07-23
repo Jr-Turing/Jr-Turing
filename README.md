@@ -1,7 +1,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arvind+Kumar!;Welcome+To+My+Github+Profile" </h1>
 
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+![MasterHead](https://github.com/user-attachments/assets/40ee98a8-cf4e-4a3b-95f7-be8f3055b98e)
+
 
 <h3 align="center">A passionate Cyber Security from India</h3>
 
