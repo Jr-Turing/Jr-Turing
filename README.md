@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **DSA with C++**
 
-- 👯 I’m looking to collaborate on **Python Projects**
+- 👯 I’m looking to collaborate on **Projects**
   
 - 💬 Ask me about **security**
   
 - 📫 How to reach me **teamarvindkr@gmail.com**
   
-- 📄 Know about my experiences [Complete C]
+- 📄 Know about my experiences [Complete C , Python basic]
   
 - ⚡ Fun fact **I am funny**
 
