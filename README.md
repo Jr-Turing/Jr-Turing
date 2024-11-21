@@ -16,7 +16,7 @@
   
 - 📄 Know about my experiences [Complete C , Python basic]
   
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun Fact 🤓🧠 **When I’m not coding or studying, you can find me exploring the latest in tech news and gadgets 🎮—it’s my way of staying curious and sharp!**
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
