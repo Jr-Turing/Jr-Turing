@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arvind+Kumar!;Welcome+To+My+Github+Profile" </h1>
 
-![MasterHead](https://github.com/user-attachments/assets/40ee98a8-cf4e-4a3b-95f7-be8f3055b98e)
+![MasterHead](https://github.com/Jr-Turing/Jr-Turing/blob/main/mypic.svg)
 
 
 <h3 align="center">An aspiring AI Engineer from India</h3>
