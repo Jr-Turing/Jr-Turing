@@ -4,17 +4,17 @@
 ![MasterHead](https://github.com/user-attachments/assets/40ee98a8-cf4e-4a3b-95f7-be8f3055b98e)
 
 
-<h3 align="center">A passionate Cyber Security from India</h3>
+<h3 align="center">An aspiring AI Engineer from India</h3>
 
-- 🌱 I’m currently learning **DSA with C++**
+- 🌱 Currently learning **DSA with C++ & Python for AI**
 
-- 👯 I’m looking to collaborate on **Projects**
+- 🤝 Looking to collaborate on **AI/ML projects**
   
-- 💬 Ask me about **security**
+- 💬 Ask me about **Artificial Intelligence & Machine Learning basics**
   
 - 📫 How to reach me **teamarvindkr@gmail.com**
   
-- 📄 Know about my experiences [Complete C , Python basic]
+- 📘 Skills: C, C++, Python
   
 - ⚡ Fun Fact 🤓🧠
 **When I’m not coding or studying, you can find me exploring the latest in tech news and gadgets🎮—it’s my way of staying curious and sharp!**
