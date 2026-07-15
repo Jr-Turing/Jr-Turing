@@ -1,0 +1,48 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes float {
+        0%, 100% { transform: translateY(0px) rotate(0deg); }
+        50% { transform: translateY(-12px) rotate(2deg); }
+      }
+      @keyframes pulse {
+        0%, 100% { transform: scale(1); opacity: 1; }
+        50% { transform: scale(1.06); opacity: .88; }
+      }
+      @keyframes orbit {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+      #fastapi-icon {
+        animation: float 4s ease-in-out infinite;
+        transform-origin: 256px 256px;
+      }
+      #logo {
+        animation: pulse 2.4s ease-in-out infinite;
+        transform-origin: 256px 256px;
+      }
+      #orbit {
+        animation: orbit 8s linear infinite;
+        transform-origin: 256px 256px;
+      }
+      .fastapi { fill: #009688; }
+      .accent { fill: #00BFA5; }
+    </style>
+  </defs>
+
+  <g id="fastapi-icon">
+    <g id="orbit" opacity=".25">
+      <circle cx="256" cy="58" r="10" class="accent"/>
+      <circle cx="454" cy="256" r="7" class="accent"/>
+      <circle cx="256" cy="454" r="10" class="accent"/>
+      <circle cx="58" cy="256" r="7" class="accent"/>
+    </g>
+
+    <g id="logo">
+      <circle cx="256" cy="256" r="180" class="fastapi"/>
+      <!-- FastAPI-style lightning mark -->
+      <path fill="#fff"
+        d="M286 112L168 278h76l-22 122 122-180h-79l21-108z"/>
+    </g>
+  </g>
+</svg>
