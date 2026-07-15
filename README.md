@@ -116,22 +116,6 @@ languages: Python · C++
 
 ---
 
-## 🎯 Current Goal
-
-> **My goal is to become an industry-ready AI Engineer by building strong fundamentals, developing production-oriented AI projects, contributing to open source, and continuously learning modern AI technologies.**
-
-I'm currently working towards:
-
-* ✅ Strengthening **Python and programming fundamentals**
-* 📚 Building strong foundations in **Machine Learning**
-* 🧠 Learning **Deep Learning and Generative AI**
-* 🚀 Creating **end-to-end AI projects**
-* 🐳 Learning **Docker and production deployment**
-* 🌍 Starting meaningful **open-source contributions**
-* 💼 Preparing for **AI/ML internships**
-* 🧩 Improving **DSA and problem-solving skills**
-
----
 <!-- ============================================================ -->
 <!--                          TECH STACK                          -->
 <!-- ============================================================ -->
