@@ -171,14 +171,14 @@ languages: Python · C++
 <tr>
 <td align="right"><b>🛠️ Tools & DevOps</b></td>
 <td>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,jupyter" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,bun" />
 </td>
 </tr>
 
 <tr>
 <td align="right"><b>🌐 Web Technologies</b></td>
 <td>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=html,css,nextjs,ts" />
 </td>
 </tr>
 
