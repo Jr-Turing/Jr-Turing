@@ -150,7 +150,7 @@ languages: Python · C++
 <tr>
 <td align="right"><b>🤖 AI / ML</b></td>
 <td>
-  <img src="https://skillicons.dev/icons?i=sklearn,RAG" />
+  <img src="https://skillicons.dev/icons?i=sklearn" />
 </td>
 </tr>
 
